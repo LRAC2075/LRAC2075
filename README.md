@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/LRAC2075/LRAC2075/blob/main/Banner.png" alt="Banner" width="100%">
   <h1>Hola, soy Leonardo</h1>
-  <h3>Ingeniero en TIC | Entusiasta de Python | Creador de Soluciones</h3>
+  <h3>Futuro ingeniero en TIC | Entusiasta de Python | Desarrollador de Soluciones</h3>
 </div>
 
 ---
