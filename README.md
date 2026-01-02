@@ -14,20 +14,22 @@
 
 ---
 
-### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
-</div>
 
----
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 
-### 📊 Mis Estadísticas
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LRAC2075&theme=radical" alt="GitHub Stats" />
+  <br/><br/> <h3>📊 Mis Estadísticas</h3>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LRAC2075&theme=radical" alt="GitHub Stats" width="800px" />
+  
   <br/>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LRAC2075&theme=radical" alt="Language Stats" />
+
 </div>
 
 ---
