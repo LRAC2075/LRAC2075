@@ -23,10 +23,11 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LRAC2075&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LRAC2075&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LRAC2075&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LRAC2075&theme=radical" alt="Language Stats" />
 </div>
 
 ---
